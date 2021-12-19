@@ -16,6 +16,7 @@ O App desenvolvido é um App totalmente simples, sendo uma aplicação apenas Fr
 Este projeto foi desenvolvido com as seguintes tecnologia(s):
 
 * [React Native](https://reactnative.dev/)
+* [Expo](https://expo.dev/)
 
 ## Telas
 <div align="center">
