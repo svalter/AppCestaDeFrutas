@@ -3,14 +3,23 @@
 </div>
 </br>
 
-# Olá!<br/>
-O App desenvolvido, é um app realizado com a plataforma Alura:
+## :smiley: Olá!<br/>
+
+Este é meu primeiro App React Native desenvolvido! </br>
+O aplicativo foi desenvolvido através dos estudos da plataforma Alura.
+
+## Sobre o App
+
+O App desenvolvido é um App totalmente simples, sendo uma aplicação apenas FrontEnd que consiste em uma listagem de itens.
 
 ## 🚀 Tecnologias:
 Este projeto foi desenvolvido com as seguintes tecnologia(s):
+
 * [React Native](https://reactnative.dev/)
 
+## Telas
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/62814299/146663933-9c9086ef-e47f-4fac-81af-a3c389b22632.png"/>
-  <img src="https://user-images.githubusercontent.com/62814299/146663935-99e26091-2171-4926-98ca-836f8f3d3cce.png"/>
+  <img src="https://user-images.githubusercontent.com/62814299/146684398-7023f3b7-0262-4b9a-adcf-4027db9aaa22.png"/>
+  <img src="https://user-images.githubusercontent.com/62814299/146684396-d612309f-9ecd-45a6-8a8f-e27fa0a260d7.png"/>
 </div>
+
