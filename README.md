@@ -3,8 +3,8 @@
 </div>
 </br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/62814299/146662485-9f48e037-9bd0-4ecf-856a-5325fa7ab2fb.png" width="350px"/>
-  <img src="https://user-images.githubusercontent.com/62814299/146662484-d9a9282c-85e4-4c38-8b92-fe7e0e1a4f3d.png" width="350px"/>
+  <img src="https://user-images.githubusercontent.com/62814299/146663903-388df02e-cfc1-4178-bbeb-7f6589598978.png" width="350px"/>
+  <img src="https://user-images.githubusercontent.com/62814299/146663904-5130b1d4-906a-4699-825a-74b0bd836927.png" width="350px"/>
 </div>
 </br>
 
@@ -15,5 +15,6 @@ O App desenvolvido, é um app realizado com a plataforma Alura:
 Este projeto foi desenvolvido com as seguintes tecnologias:
 * [React Native](https://reactnative.dev/)
 
+![image 5 (1)](https://user-images.githubusercontent.com/62814299/146663903-388df02e-cfc1-4178-bbeb-7f6589598978.png)
 
-
+![146663904-5130b1d4-906a-4699-825a-74b0bd836927](https://user-images.githubusercontent.com/62814299/146663922-2bbe015b-30d5-4694-9b9f-5b706b7db896.png)
