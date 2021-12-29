@@ -1,15 +1,16 @@
 import React from 'react';
-import { StyleSheet, Text, View, FlatList, ListHeaderComponent } from 'react-native';
+import { StyleSheet, View, FlatList } from 'react-native';
 
 import Texto from '../../../components/Texto';
 import Topo from './Topo'
 import Detalhes from './Detalhe';
 import Item from './Item';
 
+
+
 export default function Cesta({ topo, detalhes, itens }) {
     return (
         <>
-
             <FlatList
                 data={itens.lista}
                 renderItem={Item}
@@ -29,7 +30,6 @@ export default function Cesta({ topo, detalhes, itens }) {
         </>
     )
 }
-
 
 const estilos = StyleSheet.create({
     cesta: {

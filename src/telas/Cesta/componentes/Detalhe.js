@@ -1,8 +1,10 @@
 import React from "react";
-import {View, Image, StyleSheet, Text, TouchableOpacity} from'react-native';
+import { View, Image, StyleSheet, Text, TouchableOpacity } from 'react-native';
 
 import Texto from "../../../components/Texto";
-export default function Detalhes({nome, logoFazenda, nomeFazenda, descricao, preco, botao}) {
+
+
+export default function Detalhes({ nome, logoFazenda, nomeFazenda, descricao, preco, botao }) {
     return (
         <>
             <Texto style={estilos.nome}>{nome}</Texto>
@@ -12,54 +14,52 @@ export default function Detalhes({nome, logoFazenda, nomeFazenda, descricao, pre
             </View>
             <Texto style={estilos.descricao}>{descricao}</Texto>
             <Text style={estilos.preco}>{preco}</Text>
-            <TouchableOpacity style={estilos.botao} onPress={() => {}}>
+            <TouchableOpacity style={estilos.botao} onPress={() => { }}>
                 <Text style={estilos.textoBotao}>{botao}</Text>
             </TouchableOpacity>
         </>
     )
 }
 
-
-
 const estilos = StyleSheet.create({
-    nome:{
+    nome: {
         color: "#464646",
         fontSize: 16,
         lineHeight: 42,
-        fontWeight:'bold'
+        fontWeight: 'bold'
     },
-    fazenda:{
+    fazenda: {
         flexDirection: "row",
-        paddingVertical:12,
+        paddingVertical: 12,
     },
-    imagemFazenda:{
+    imagemFazenda: {
         width: 32,
         height: 32,
     },
-    nomeFazenda:{
+    nomeFazenda: {
         fontSize: 16,
         lineHeight: 26,
         marginLeft: 12,
     },
-    descricao:{
-        color:"#A3A3A3",
+    descricao: {
+        color: "#A3A3A3",
         fontSize: 16,
         lineHeight: 26,
         textAlign: "justify",
     },
-    preco:{
-        color:"#2A9F85",
+    preco: {
+        color: "#2A9F85",
         fontSize: 26,
         lineHeight: 42,
         marginTop: 8,
     },
-    botao:{
+    botao: {
         marginTop: 16,
         backgroundColor: "#2A9F85",
         paddingVertical: 16,
         borderRadius: 6,
     },
-    textoBotao:{
+    textoBotao: {
         textAlign: "center",
         color: "#ffffff",
         fontSize: 16,
