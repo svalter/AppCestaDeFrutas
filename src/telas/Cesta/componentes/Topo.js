@@ -33,5 +33,4 @@ const estilos = StyleSheet.create({
         padding: 16,
         marginTop: 8,
     },
-
 })
